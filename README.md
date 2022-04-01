@@ -2,6 +2,8 @@
 
 A script for decentraland parkour courses to save and update a user's location.
 
+![checkpoint ui](https://i.imgur.com/MkKNbn8.png)
+
 - Press 1 to save a new checkpoint
 - Press 2 and 3 to revert between saved checkpoints
 
